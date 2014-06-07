@@ -1,6 +1,6 @@
 Bioinformatics
 ==============
 
-Biology related programs
+Biology related programs too small to deserve their own repository.
 
-Ah biology, my first true love.
+(Ah biology, my first true love.)
