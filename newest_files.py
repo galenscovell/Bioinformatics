@@ -2,11 +2,6 @@
 # Prints names of all files within given directory 
 # that were created after given date (YYYY-MM-DD).
 
-# NOTE:
-#   Since unzipping these files onto my computer counted as
-#   their 'creation' date, all of these files have the same one!
-#   However their modified dates still differ and the program is 
-#   actually functioning correctly.
 
 import sys, os, time
 
